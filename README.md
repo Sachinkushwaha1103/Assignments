@@ -1,7 +1,7 @@
 <h1 align="center"> WD HTML </h1>
 
 <h5> 1.  Are the HTML tags and elements the same thing? <h5>
-<h6> Ans: No, HTML tags are simple instructions that tell a web browser and HTML element is a component of an HTML document that tells a web browser how to structure and interpret a part of the HTML document. <h/6>
+<h6> Ans: No, Both are difference just like that, HTML is opening or closing tag. <br> Example: <p> </p> <br> HTML Elements is a start tag and end tag, with some content. <br> Example: <p>This my first paragraph</p></h6>
 
 <h5> 2. What are tags and attributes in HTML? </h5>
 <h6> Ans: HTML tags are simple instructions that tell a web browser and All HTML elements can have attributes.</h6>
